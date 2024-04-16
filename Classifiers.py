@@ -1,5 +1,4 @@
 pip install dataprep
-
 import pandas as pd
 import statsmodels.api as sm
 from sklearn.preprocessing import OrdinalEncoder
